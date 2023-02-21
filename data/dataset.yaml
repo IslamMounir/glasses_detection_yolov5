@@ -1,6 +1,6 @@
 
-train: images/images/train  # train images (relative to 'path') 128 images
-val: images/images/val  # val images (relative to 'path') 128 images
+train: ../images/images/train/  # train images (relative to 'path') 128 images
+val: ../images/images/val/  # val images (relative to 'path') 128 images
 
 
 # Classes
